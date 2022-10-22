@@ -7,7 +7,7 @@ Linked the nav bar items to their corresponding sections.
 Title description the title is the name of the company/site rather than just using 'website'.
 Refactored CSS to make it easier to read and see what is being done. Added comments to CSS explaining my changes.
 
-Site is deployed on Github pages: https://github.com/MontineSproul/first-website/deployments/activity_log?environment=github-pages
+Site is deployed on Github pages: https://montinesproul.github.io/first-website/
 screenshot of working website 
 
 ![The Horiseon webpage includes a navigation bar, header, side panel and cards.](./OldAssets/Horiseon1.png)
