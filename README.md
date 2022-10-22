@@ -10,6 +10,6 @@ Refactored CSS to make it easier to read and see what is being done. Added comme
 Site is deployed on Github pages: https://github.com/MontineSproul/first-website/deployments/activity_log?environment=github-pages
 screenshot of working website 
 
-![The Horiseon webpage includes a navigation bar and a header](./OldAssets/Screen Shot 2022-10-21 at 11.41.24 PM (2).png)
-![The Horiseon webpage also includes a sidebar and cards.]
-(./OldAssets/Screen Shot 2022-10-21 at 11.41.28 PM (2).png)
+![The Horiseon webpage includes a navigation bar and a header](./OldAssets/Horiseon1.png)
+
+![The Horiseon webpage also includes a sidebar and cards.](./OldAssets/Horiseon2.png)
