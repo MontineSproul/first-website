@@ -101,7 +101,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* use the h3 selector rather than multiple class selectors */
  h3 {
     margin-bottom: 10px;
     text-align: center;
